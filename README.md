@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm mahmoud</h1>
 <h3 align="center">Web Développeur Full Stack</h3>
 
-- 🌱 I’m currently learning ** HTML & CSS, JAVASCRIPT, JQUERY, Composer, Ruby  MYSQL, PostgreSQL,Node.JS, Webpack, Sass  Angular 16, Stimulus.js, React, Type Script, RxJS  Symfony 5,Ruby on Rails  Bootstrap 5, Axentix,  Design pattern MVC  ORM :Active Record et DOCTRINE**
+🔭  I’m currently working on Web Developer Ministry of Professional Training and Employment
+
+👯 Currently looking for a job as a full stack application developer. I want to expand and deepen my technical and practical knowledge in web development as well as improve my skills by learning new programming languages ​​and technologies.
+
+
+- 🌱 MY TECHNICAL SKILLS ** HTML & CSS, JAVASCRIPT, JQUERY, Composer, Ruby  MYSQL, PostgreSQL, Node.JS, Webpack, Sass,  Angular 16, Stimulus.js, React, Type Script, RxJS, Symfony 5,Ruby on Rails, Bootstrap 5, Axentix,  Design pattern MVC, ORM :Active Record et DOCTRINE**
+🌱 MY SOFT SKILLS ** 	Toujours à l'écoute
+	Capacité d’analyse et de résolution de problèmes
+Capacité d’organisation et priorisation des tâches
+Un bon esprit d'équipe 
+Adaptation rapide
+La curiosité
+Prêt à travailler sous pression
 
 - my projects [https://www.uskillss.xyz](https://www.uskillss.xyz)
 
