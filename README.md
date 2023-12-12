@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning ** HTML & CSS, JAVASCRIPT, JQUERY, Composer, Ruby  MYSQL, PostgreSQL,Node.JS, Webpack, Sass  Angular 16, Stimulus.js, React, Type Script, RxJS  Symfony 5,Ruby on Rails  Bootstrap 5, Axentix,  Design pattern MVC  ORM :Active Record et DOCTRINE**
 
-- 👨‍💻 All of my projects are available at [https://www.uskillss.xyz](https://www.uskillss.xyz)
+- my projects [https://www.uskillss.xyz](https://www.uskillss.xyz)
 
 - 📫 How to reach me **mahmoudladjimi@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahmoud-lajimi/](https://www.linkedin.com/in/mahmoud-lajimi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
