@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mahmoud</h1>
 <h3 align="center">Web Développeur Full Stack</h3>
 
-- 🌱 I’m currently learning **HTML, XML, CSS, JavaScript. Heroku, Ruby on Rails (MVC), Figma, Git, GitHub.Vue.js, React, PostgreSQL, Terminal, Visual Studio Code, Ruby SQL Active Record ORP**
+- 🌱 I’m currently learning ** HTML & CSS, JAVASCRIPT, JQUERY, Composer, Ruby  MYSQL, PostgreSQL,Node.JS, Webpack, Sass  Angular 16, Stimulus.js, React, Type Script, RxJS  Symfony 5,Ruby on Rails  Bootstrap 5, Axentix,  Design pattern MVC  ORM :Active Record et DOCTRINE**
 
 - 👨‍💻 All of my projects are available at [https://www.uskillss.xyz](https://www.uskillss.xyz)
 
