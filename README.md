@@ -7,13 +7,13 @@
 
 
 - 🌱 MY TECHNICAL SKILLS ** HTML & CSS, JAVASCRIPT, JQUERY, Composer, Ruby  MYSQL, PostgreSQL, Node.JS, Webpack, Sass,  Angular 16, Stimulus.js, React, Type Script, RxJS, Symfony 5,Ruby on Rails, Bootstrap 5, Axentix,  Design pattern MVC, ORM :Active Record et DOCTRINE** <br>
-- 🌱 MY SOFT SKILLS ** 	Toujours à l'écoute
-	Capacité d’analyse et de résolution de problèmes
-Capacité d’organisation et priorisation des tâches
-Un bon esprit d'équipe 
-Adaptation rapide
-La curiosité
-Prêt à travailler sous pression
+- 🌱 MY SOFT SKILLS **
+-    Always attentive Ability to analyze and solve problems
+-    Ability to organize and prioritize tasks
+-    A good team spirit
+-    Quick adaptation
+-    Curiosity
+-    Ready to work under pressure
 
 
 
