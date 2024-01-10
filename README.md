@@ -15,7 +15,7 @@ Adaptation rapide
 La curiosité
 Prêt à travailler sous pression
 
-- my projects [https://www.uskillss.xyz](https://www.uskillss.xyz)
+
 
 - 📫 How to reach me **mahmoudladjimi@gmail.com**
 
